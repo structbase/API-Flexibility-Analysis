@@ -1,5 +1,13 @@
 ### Task 2: Written Reflection – API Flexibility Analysis
 
+Article 1: [**GraphQL vs REST: A Comprehensive Comparison**](https://hygraph.com/blog/graphql-vs-rest-apis)
+---
+Article 2: [**Is GraphQL Better Than REST? A Comparison**](https://tailcall.run/graphql/graphql-vs-rest-api-comparison/)
+---
+Article 3: [**GraphQL vs REST: API Showdown**](https://medium.com/@programordie/graphql-vs-rest-api-showdown-fcf11d9c4fe6)
+--
+
+
 **The Over-fetching and Under-fetching Problem**
 In the context of REST APIs, **_over-fetching_** occurs when an API endpoint returns more data than the client actually needs. This happens because REST endpoints are typically designed with a fixed response structure that must serve many different use cases. As a result, clients often receive unnecessary fields, which increases payload size and wastes bandwidth.
 
